@@ -38,7 +38,15 @@ One thing that stood out to me was how much visiting habits seemed to matter for
 
 Based on these findings, I think businesses could make better use of coupons by considering how often customers visit a particular type of business, rather than sending the same offers to everyone.
 
+For example, businesses could try targeting coupons to customers who already visit similar places regularly, since those groups had higher acceptance rates in this dataset.
+
 Of course, these are patterns in the data. They don't necessarily mean that one factor causes someone to accept a coupon.
+
+## Next Steps
+
+If I were to continue this analysis, I would look more closely at how visiting habits interact with other factors, such as time of day, distance to the business, and whether someone is traveling alone or with others.
+
+I would also want to test whether more targeted coupon offers actually lead to higher acceptance rates, rather than relying only on the patterns observed in this survey.
 
 ## Tools Used
 
